@@ -245,6 +245,18 @@ Drive: 4:00 (o’clock)
 
 ## Big Muff
 
+### Gilmourish Rams Head settings for Dogs tone
+![image](./assets/rams-head-dogs-tone.png)<br>
+<sub>Source: https://www.youtube.com/watch?v=pfbir_FZ1wI&t=23s</sub>
+
+### Gilmourish Rams Head settings for Pigs tone
+![image](./assets/rams-head-pigs-tone.png)<br>
+<sub>Source: https://www.youtube.com/watch?v=pfbir_FZ1wI&t=23s</sub>
+
+### Gilmourish Rams Head settings for his random? tone 
+![image](./assets/rams-head-great-day-for-a-freedom-tone.png)<br>
+<sub>Source: https://www.youtube.com/watch?v=pfbir_FZ1wI&t=23s</sub>
+
 ## Gilmour's Pulse settings
 ```
 Sustain: 70%
