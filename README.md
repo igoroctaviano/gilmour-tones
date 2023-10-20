@@ -508,8 +508,9 @@ CS2, CE2, CE2 left channel, Doppolas
 
 # Josh (QOTSA 2013 Like Clockwork)
 
-![image](./assets/josh-board-1-like-a-clockwork-2013.webpg)<br>
+![image](./assets/josh-board-1-like-a-clockwork-2013.webp)<br>
 <sub>Source: https://en.customboards.fi/blogs/articles/josh-homme-s-pedals-amplifiers-and-guitars-in-the-spotlight</sub>
+
 ![image](./assets/josh-board-2-like-a-clockwork.webp)<br>
 <sub>Source: https://en.customboards.fi/blogs/articles/josh-homme-s-pedals-amplifiers-and-guitars-in-the-spotlight</sub>
 
@@ -517,7 +518,9 @@ CS2, CE2, CE2 left channel, Doppolas
 
 ![image](./assets/them-crooked-board-1.webp)<br>
 <sub>Source: https://en.customboards.fi/blogs/articles/josh-homme-s-pedals-amplifiers-and-guitars-in-the-spotlight</sub>
+
 ![image](./assets/them-crooked-board-2.webp)<br>
 <sub>Source: https://en.customboards.fi/blogs/articles/josh-homme-s-pedals-amplifiers-and-guitars-in-the-spotlight</sub>
+
 ![image](./assets/them-crooked-board-3.webp)<br>
 <sub>Source: https://en.customboards.fi/blogs/articles/josh-homme-s-pedals-amplifiers-and-guitars-in-the-spotlight</sub>
