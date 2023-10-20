@@ -505,3 +505,19 @@ Telecaster, bridge pickup
 CS2, CE2, CE2 left channel, Doppolas
 ```
 <sub>Source: https://www.gilmourish.com/?page_id=2119 and http://www.kitrae.net/music/David_Gilmour_Tone_Building_1B.html</sub>
+
+# Josh (QOTSA 2013 Like Clockwork)
+
+![image](./assets/josh-board-1-like-a-clockwork-2013.webpg)<br>
+<sub>Source: https://en.customboards.fi/blogs/articles/josh-homme-s-pedals-amplifiers-and-guitars-in-the-spotlight</sub>
+![image](./assets/josh-board-2-like-a-clockwork.webp)<br>
+<sub>Source: https://en.customboards.fi/blogs/articles/josh-homme-s-pedals-amplifiers-and-guitars-in-the-spotlight</sub>
+
+# Josh (TCV)
+
+![image](./assets/them-crooked-board-1.webp)<br>
+<sub>Source: https://en.customboards.fi/blogs/articles/josh-homme-s-pedals-amplifiers-and-guitars-in-the-spotlight</sub>
+![image](./assets/them-crooked-board-2.webp)<br>
+<sub>Source: https://en.customboards.fi/blogs/articles/josh-homme-s-pedals-amplifiers-and-guitars-in-the-spotlight</sub>
+![image](./assets/them-crooked-board-3.webp)<br>
+<sub>Source: https://en.customboards.fi/blogs/articles/josh-homme-s-pedals-amplifiers-and-guitars-in-the-spotlight</sub>
